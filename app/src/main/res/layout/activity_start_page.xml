@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_start_page"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="hkucs.ass1.StartPage"
+    android:weightSum="1">
+
+    <ImageView
+        android:id="@+id/start"
+        android:layout_width="wrap_content"
+        android:layout_height="400dp"
+        android:layout_alignParentBottom="true"
+        android:src="@drawable/start"/>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Start"
+        android:onClick="Start"
+        android:id="@+id/Start"
+        android:layout_marginLeft="110dp"
+        android:layout_marginRight="110dp"
+        android:layout_marginTop="375dp"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="YU QINGTIAN"
+        android:layout_marginRight="80dp"
+        android:layout_marginLeft="80dp"
+        android:textColor="#389300"
+        android:textSize="25sp"
+
+        android:layout_marginTop="25dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="3035348918"
+        android:layout_marginRight="85dp"
+        android:layout_marginLeft="85dp"
+        android:textColor="#009193"
+        android:textSize="25sp"
+
+        android:layout_marginTop="55dp" />
+
+
+
+
+</RelativeLayout>

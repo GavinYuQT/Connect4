@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/Gavin/Desktop/ASS1/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/Gavin/Desktop/ASS1/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_db9b9760bea1770de3c48cd3d8bd67031ab07a19/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Gavin/Desktop/ASS1/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/Gavin/Desktop/ASS1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.1_d295e781454f89ff0e8827574910171d62ba6771/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Gavin/Desktop/ASS1/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/Gavin/Desktop/ASS1/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_a4ad2839ad6204e3a4418e648d59c50e798ae086/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Gavin/Desktop/ASS1/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/Gavin/Desktop/ASS1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.1_77fe57b8edeb920b3cf657e9fcee9bed4ec278f3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Gavin/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/Users/Gavin/Desktop/ASS1/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.1_9b802947f713c873e67b9dd3b3f912fee9571f12/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Gavin/Desktop/ASS1/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/Gavin/Desktop/ASS1/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_ea0c0eee72c49ab2a8a2626e8dfbf823416de396/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Gavin/Desktop/ASS1/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="a09a4160280ab1af795489d93b135f823fdfc4d4">
+        <dex dex="/Users/Gavin/Desktop/ASS1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_8bbbfe6cdcf4a76ebd3cdf37af435e83e76c024a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Gavin/Desktop/ASS1/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/Gavin/Desktop/ASS1/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_002348dc3e0972722815927f190858633c6a6c12/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Gavin/Desktop/ASS1/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/Gavin/Desktop/ASS1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.1_f6d8d59ef6e86457e876500e65f9c0af867a2745/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Gavin/Desktop/ASS1/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="5533a70dd3b5fe25bd66c60fe49e8d7adc325894">
+        <dex dex="/Users/Gavin/Desktop/ASS1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_e7e306ac3e279378f4fafb73484d921cef9c346e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Gavin/Desktop/ASS1/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/Gavin/Desktop/ASS1/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_83baf0c750c3c3435269ae5d0c5bf1431bfd768b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Gavin/Desktop/ASS1/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/Gavin/Desktop/ASS1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.1_23d45efab968b311bacc08769beb135ed7d99846/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Gavin/Desktop/ASS1/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/Gavin/Desktop/ASS1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.1_c05a8587a460fcdd14259a3f782471ce6dbfcf73/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Gavin/Desktop/ASS1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/Gavin/Desktop/ASS1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.1_05fccaf8d29db2fac9992cff10998f24f2e945bc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Gavin/Desktop/ASS1/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/Gavin/Desktop/ASS1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.1_66ab02eda210a622fbaa55ce2d7f802a0523cdf8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Gavin/Desktop/ASS1/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/Gavin/Desktop/ASS1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.1_fda9e269eb8f66c0ab2f5bff8ea3722f19c4e14e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Gavin/Desktop/ASS1/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/Gavin/Desktop/ASS1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.1_fd3903722c9d684fa81bbfa984966b43827e404f/classes.dex" />
+    </item>
+
+</items>
